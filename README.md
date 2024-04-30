@@ -36,8 +36,8 @@ Consignes :
 - Créer un menu :
 - Ajouter une balise nav qui va contenir :
 ```
-	-une liste ul :
-		-li -> a href ="prenom.html" -> prenom (pour chaque stagiaire)
+-une liste ul :
+	-li -> a href ="prenom.html" -> prenom (répéter pour chaque stagiaire)
 ```
 - Créer une structure :
 ```
