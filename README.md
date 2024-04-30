@@ -34,18 +34,19 @@ Consignes :
 **Partie 2** :
 - Editez le fichier index.html :
 - Créer un menu :
-- Ajouter une balise nav qui va contenir :
+
 ```
--une liste ul :
+-Ajouter une balise nav qui va contenir :
+	-Ajouter une liste ul qui va contenir :
 	-li -> a href ="prenom.html" -> prenom (répéter pour chaque stagiaire)
 ```
-- Créer une structure :
+- Créer la structure suivante  :
 ```
   - un titre H1 avec le texte (présentation du groupe CDA3123-01),
-  - une div (class = stagiaires ) qui va contenir (container de tous les stagiaires)
+  - une section (class = stagiaires ) qui va contenir (container de tous les stagiaires)
   (par ordre croissant !),
   - une div (class = stagiaire) qui va contenir : (container d'un stagiaire),
-  - titre h2 (nom et prénom du stagaire),
-  - image (lien vers un fichier de asset/image/prenom.extension),
-  - un lien vers la fiche compléte,
+  	- titre h2 (nom et prénom du stagaire),
+  	- image (lien vers un fichier de asset/image/prenom.extension),
+  	- un lien vers la fiche compléte,
 ```
