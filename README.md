@@ -34,13 +34,11 @@ Consignes :
 **Partie 2** :
 - Editez le fichier index.html :
 - Créer un menu :
-  
-    -ajouter une balise nav qui va contenir :
+- Ajouter une balise nav qui va contenir :
 ```
-      -une liste ul :
-          -li -> a href ="prenom.html" -> prenom (pour chaque stagiaire)
+	-une liste ul :
+		-li -> a href ="prenom.html" -> prenom (pour chaque stagiaire)
 ```
-
 - Créer une structure :
 ```
   - un titre H1 avec le texte (présentation du groupe CDA3123-01),
