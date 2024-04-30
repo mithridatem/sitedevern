@@ -17,3 +17,17 @@ Consignes :
 - Ajouter en liste d'attente vos modifications,
 - Commit les modification,
 - Push sur votre branche les modifications.
+Partie 2 :
+- Editez le fichier index.html :
+- Créer un menu :
+    -ajouter une balise nav qui va contenir :
+      -une liste ul :
+          li -> a href ="prenom.html" -> prenom (pour chaque stagiaire)
+- Créer une structure :
+  -un titre H1 avec le texte (présentation du groupe CDA3123-01)
+  -une div (class = stagiaires ) qui va contenir (container de tous les stagiaires)
+  (par ordre croissant !)
+  -une div (class = stagiaire) qui va contenir : (container d'un stagiaire)
+  -titre h2 (nom et prénom du stagaire),
+  -image (lien vers un fichier de asset/image/prenom.extension)
+  -un lien vers la fiche compléte,
