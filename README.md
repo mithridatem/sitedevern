@@ -14,17 +14,17 @@ Consignes :
   
   -une div qui va contenir :
   
-    _un titre h3 (Présentation),
+      _un titre h3 (Présentation),
   
-    _un paragraphe avec le texte de votre présentation
+      _un paragraphe avec le texte de votre présentation
   
-    _un titre h3 (Expérience )
+      _un titre h3 (Expérience )
   
-    _un paragraphe avec le texte de vos expériences,
+      _un paragraphe avec le texte de vos expériences,
   
-    _un titre h3 (Loisir)
+      _un titre h3 (Loisir)
   
-    _paragraphe avec le texte de vos loisirs
+      _paragraphe avec le texte de vos loisirs
   
 - Ajouter en liste d'attente vos modifications,
 
