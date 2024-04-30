@@ -6,11 +6,11 @@ Consignes :
 
 - Créer une page prenom.html qui va contenir :
 
-  -une div (id = prenom class = stagiaire)
+  -une div (id = prenom class = stagiaire) :
   
-    -un titre h2 : nom et prénom,
+      -un titre h2 : nom et prénom,
   
-    -une image : prenom.extension
+      -une image : prenom.extension
   
   -une div qui va contenir :
   
