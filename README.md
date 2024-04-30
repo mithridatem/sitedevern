@@ -28,6 +28,6 @@ Consignes :
   
 - Ajouter en liste d'attente vos modifications,
 
-- Commit les modification,
+- Commit les modifications,
   
 - Push sur votre branche les modifications.
